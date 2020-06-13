@@ -1,0 +1,7 @@
+HEIGHT = 738
+WIDTH = 988
+FRAME_BG = '#0a1e2b'
+BUTTON_1 = '#004059'
+BUTTON_2 = '#86270a'
+FONT_COLOR = '#f2f2f2'
+BG_IMAGE = 'img/app-bg-1000.png'
